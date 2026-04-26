@@ -13,7 +13,7 @@
 
 Исправление багов: Решена проблема, когда описание модуля не обновлялось или не отображалось.
 
-<—————————————–————————————————————————————————>
+
 
 🇺🇸 Description (EN)
 This module is designed for those who want to know everything about their battery. Unlike applications like battery guru or ABattery, the module takes data from the kernel, not dumpsys 
@@ -35,5 +35,6 @@ Bug Fixes: Fixed an issue where the description was not updated or simply did no
 
 🔗 Links / Ссылки
 Тгк/Telegram Channel:https://t.me/ausyabatt 
+
 тт аккаунт/TikTok account:https://www.tiktok.com/@awyx27
  
